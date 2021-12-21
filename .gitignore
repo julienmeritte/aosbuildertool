@@ -1,0 +1,11 @@
+# venv
+venv
+__pycache__/
+
+# IDE settings
+.idea
+
+# pyinstaller settings and builds
+main.spec
+dist
+build
